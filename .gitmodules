@@ -1,0 +1,3 @@
+[submodule "thurs/reactTrials/my-app"]
+	path = thurs/reactTrials/my-app
+	url = https://github.com/mitchnguyen1/5_week.git
